@@ -9,7 +9,7 @@
         <h1>Hello from SathyaTech</h1>
         <h1>Demo Project from Devops</h1>
         <h1>Hello SATISH KUMAR</h1>
-<table width="30%" bgcolor="cyan" align="center">
+<table width="30%" bgcolor="green" align="center">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>

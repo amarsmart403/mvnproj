@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>SATHYA</groupId>
-    <artifactId>DEVOPS</artifactId>
-    <version>3.0</version>
+    <artifactId>DEPLOY</artifactId>
+    <version>5.0</version>
     <packaging>war</packaging>
     <name>myproj</name>
     <properties>
@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://35.231.52.255:8081/repository/maven-releases/</url>
+            <url>http://35.227.66.246:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.231.52.255:8081/repository/maven-snapshots/</url>
+            <url>http://35.227.66.246:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
